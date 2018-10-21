@@ -1,21 +1,21 @@
 title {
 	font-family: Roboto;
 	font-size: 18;
-	color: #e0e0de;
+	color: #f9f9f9;
 	text-align: center;
 }
 
 normal {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #e0e0de;
+	color: #f9f9f9;
 	text-align: justify;
 }
 
 bold {
 	font-family: Roboto;
 	font-size: 16;
-	color: #e0e0de;
+	color: #f9f9f9;
 	font-weight: bold;
 	text-align: left;
 }
@@ -23,13 +23,13 @@ bold {
 kamaslabel {
 	font-family: Roboto;
 	font-size: 16;
-	color: #e0e0de;
+	color: #ededed;
 }
 
 kamasinput {
 	font-family: Roboto;
 	font-size: 16;
-	color: #e0e0de;
+	color: #ededed;
 	font-weight: bold;
 	text-align: right;
 }

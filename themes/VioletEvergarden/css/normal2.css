@@ -1,8 +1,8 @@
-/*-------------------- P Style --------------------*/
+﻿/*-------------------- P Style --------------------*/
 p {
 	font-family: Roboto;
 	font-size: 16px;
-	color: #c7c7c5;
+	color: #f3f3f3;
 	text-align: justify;
     font-weight: normal;
 }
@@ -13,7 +13,7 @@ center_p { text-align: center; }
 italic_p { font-style: italic; }
 italiccenter_center_p { font-style: italic; }
 underline_p { text-decoration: underline; }
-p4_p{color: #6b6b6b;}
+p4_p{color: #1e1e1e;}
 bold_p {
 	text-align: left;
 	font-weight: bold;
@@ -33,18 +33,18 @@ shadowedcenter_center {
 }
 /*-------------------- disabled Style --------------------*/
 disabledboldcenter_p {
-	color: #848480;
+	color: #56627c;
 	text-align: center;
 	font-weight: bold;
 }
 disabledboldright_p {
-	color: #848480;
+	color: #56627c;
 	text-align: right;
 	font-weight: bold;
 }
 
 italicdisabled_p {
-	color: #848480;
+	color: #56627c;
 	font-style: italic;
 }
 
@@ -52,7 +52,7 @@ italicdisabled_p {
 condensedbold {
 	font-family: RobotoCondensed;
 	font-size: 16px;
-	color: #c7c7c5;
+	color: #f0f0f0;
 	font-weight: bold;
 	text-align: justify;
 }
@@ -107,7 +107,7 @@ mediumcenter_medium { text-align: center; }
 
 /*-------------------- disabled Style --------------------*/
 
-disabled_p{	color: #848480; }
+disabled_p{	color: #282a2b; }
 disabledcenter_disabled { text-align: center; }
 disabledright_disabled { text-align: right; }
 disabledboldright_disabledright { font-weight: bold; }
@@ -138,7 +138,7 @@ browncondensedboldcenter {
 green {
 	font-family: Roboto;
 	font-size: 16px;
-	color: #deff00;
+	color: #8ac7e0;
 	text-align: justify;
 }
 greenleft_green { text-align: left; }
@@ -146,11 +146,11 @@ greenright_green { text-align: right; }
 greencenter_green { text-align: center; }
 
 greenunderline_p{
-	color: #deff00;
+	color: #8ac7e0;
 	text-decoration: underline;
 }
 greenboldcenter_p {
-	color: #deff00;
+	color: #8ac7e0;
 	text-align: center;
 	font-weight: bold;
 }
@@ -180,7 +180,7 @@ redright_red { text-align: right; }
 white{
 	font-family: Roboto;
 	font-size: 16px;
-	color: #e0e0de;
+	color: #f6f6f6;
 }
 whitebold_white {
 	font-weight: bold;
@@ -211,14 +211,8 @@ bonusright_right { color:#65E456;}
 exotic_left { color:#a3bcfd;}
 exoticright_right { color:#a3bcfd;}
 
-npcdialoganswer_p {
-	color: #deff00;
-	text-align: left;
-}
-npcdialoganswerover_p {
-	color: #e7ff73;
-	text-align: left;
-}
+npcdialoganswer_p { color: #6cc8ea; }
+npcdialoganswerover_p { color: #c9ebf7; }
 
 /*-------------------- Misc Style --------------------*/
 boldcenterogrine {
@@ -249,7 +243,6 @@ questtitle {
 	text-align: left;
 	shadow-distance: 1;
 }
-questtitlecenter_questtitle { text-align: center; }
 questobjective {
 	font-family: Roboto;
 	font-size: 16px;

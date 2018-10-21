@@ -1,28 +1,28 @@
 p {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: justify;
     font-weight: normal;
 }
 left {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: left;
 	font-weight: normal;
 }
 right {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: right;
 	font-weight: normal;
 }
 center {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: center;
 	font-weight: normal;
 }
@@ -30,14 +30,14 @@ center {
 boldleft {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: left;
 	font-weight: bold;
 }
 boldcenter {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: center;
 	font-weight: bold;
 }
@@ -46,25 +46,25 @@ boldcenter {
 medium {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: justify;
 }
 mediumleft {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: left;
 }
 mediumright {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: right;
 }
 mediumcenter {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: center;
 }
 
@@ -72,21 +72,21 @@ mediumcenter {
 disabled {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #4a4b46;
+	color: #426189;
 	text-align: justify;
 	font-weight: normal;
 }
 disabledcenter {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #4a4b46;
+	color: #426189;
 	text-align: center;
 	font-weight: normal;
 }
 disabledright {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #4a4b46;
+	color: #426189;
 	text-align: right;
 	font-weight: normal;
 }
@@ -94,21 +94,21 @@ disabledright {
 dark {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #9b9b9b;
+	color: #c8c8c8;
 	text-align: justify;
 	font-weight: normal;
 }
 darkright {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #9b9b9b;
+	color: #c8c8c8;
 	text-align: right;
 	font-weight: normal;
 }
 darkcenter {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #9b9b9b;
+	color: #c8c8c8;
 	text-align: center;
 	font-weight: normal;
 }
@@ -117,25 +117,25 @@ darkcenter {
 green {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #deff00;
+	color: #96d5e5;
 	text-align: justify;
 }
 greenleft {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #deff00;
+	color: #96d5e5;
 	text-align: left;
 }
 greenright {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #deff00;
+	color: #96d5e5;
 	text-align: right;
 }
 greencenter {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #deff00;
+	color: #96d5e5;
 	text-align: center;
 }
 
@@ -175,27 +175,27 @@ mediumparchmentright {
 whitebold {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #e0e0de;
+	color: #f4f4f4;
 	font-weight: bold;
 }
 whiteboldleft {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #e0e0de;
+	color: #f4f4f4;
 	font-weight: bold;
 	text-align: left;
 }
 whiteboldright {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #e0e0de;
+	color: #f4f4f4;
 	font-weight: bold;
 	text-align: right;
 }
 whiteboldcenter {
 	font-family: Roboto;
 	font-size: 15px;
-	color: #e0e0de;
+	color: #f4f4f4;
 	font-weight: bold;
 	text-align: center;
 }

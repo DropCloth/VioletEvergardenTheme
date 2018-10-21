@@ -1,28 +1,28 @@
 p {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: justify;
 	font-weight: normal;
 }
 left {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: normal;
 	text-align: left;
 }
 right {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: normal;
 	text-align: right;
 }
 center {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: normal;
 	text-align: center;
 }
@@ -30,7 +30,7 @@ center {
 bold {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: justify;
 	font-weight: bold;
 }
@@ -38,7 +38,7 @@ bold {
 italic {
     font-family: Roboto;
     font-size: 14;
-    color: #c7c7c5;
+    color: #f9f9f9;
     text-align: justify;
     font-style: italic;
 }
@@ -46,21 +46,21 @@ italic {
 boldleft {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: bold;
 	text-align: left;
 }
 boldright {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: bold;
 	text-align: right;
 }
 boldcenter {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: bold;
 	text-align: center;
 }
@@ -69,28 +69,28 @@ boldcenter {
 disabled {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #848480;
+	color: #4a4b46;
 	text-align: justify;
 	font-weight: normal;
 }
 disabledcenter {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #848480;
+	color: #4a4b46;
 	text-align: center;
 	font-weight: normal;
 }
 disabledright {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #848480;
+	color: #4a4b46;
 	text-align: right;
 	font-weight: normal;
 }
 bolddisabled {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #848480;
+	color: #4a4b46;
 	text-align: justify;
 	font-weight: bold;
 }
@@ -98,32 +98,32 @@ bolddisabled {
 medium {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: justify;
 }
 mediumleft {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: left;
 }
 mediumright {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: right;
 }
 mediumcenter {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: center;
 }
 
 mediumcenterbold {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: center;
 	font-weight: bold;
 }
@@ -131,7 +131,7 @@ mediumcenterbold {
 mediumleftbold {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: left;
 	font-weight: bold;
 }
@@ -139,7 +139,7 @@ mediumleftbold {
 mediumrightbold {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	text-align: right;
 	font-weight: bold;
 }
@@ -147,7 +147,7 @@ mediumrightbold {
 condensedboldleft {
 	font-family: RobotoCondensed;
 	font-size: 14px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: bold;
 	text-align: left;
 }
@@ -155,14 +155,14 @@ condensedboldleft {
 condensedboldcenter {
 	font-family: RobotoCondensed;
 	font-size: 14px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: bold;
 	text-align: center;
 }
 condensedboldright {
 	font-family: RobotoCondensed;
 	font-size: 14px;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: bold;
 	text-align: right;
 }
@@ -232,32 +232,32 @@ darkboldcenter {
 green {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #a3d6e6;
 	text-align: justify;
 }
 greenleft {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #a3d6e6;
 	text-align: left;
 }
 greenright {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #a3d6e6;
 	text-align: right;
 }
 greencenter {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #a3d6e6;
 	text-align: center;
 	text-decoration: none;
 }
 greenunderlinecenter {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #a3d6e6;
 	text-align: center;
 	text-decoration: underline;
 }
@@ -282,26 +282,12 @@ orange {
 	color: #ebc304;
 	text-align: justify;
 }
-
-orangebold {
-	font-family: Roboto;
-	font-size: 14;
-	color: #ebc304;
-	font-weight: bold;
-	text-align: left;
-}
-
-itemset_left {
-	color: #feb336;
-}
-
 orangeleft {
 	font-family: Roboto;
 	font-size: 14;
 	color: #ebc304;
 	text-align: left;
 }
-
 orangeright {
 	font-family: Roboto;
 	font-size: 14;
@@ -320,12 +306,6 @@ red {
 	font-size: 14;
 	color: #eb0000;
 	text-align: justify;
-}
-redleft {
-	font-family: Roboto;
-	font-size: 14;
-	color: #eb0000;
-	text-align: left;
 }
 redright {
 	font-family: Roboto;
@@ -375,27 +355,27 @@ mediumboldparchmentright {
 whitebold {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #e0e0de;
+	color: #f4f4f4;
 	font-weight: bold;
 }
 whiteboldleft {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #e0e0de;
+	color: #f4f4f4;
 	font-weight: bold;
 	text-align: left;
 }
 whiteboldright {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #e0e0de;
+	color: #f4f4f4;
 	font-weight: bold;
 	text-align: right;
 }
 whiteboldcenter {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #e0e0de;
+	color: #f4f4f4;
 	font-weight: bold;
 	text-align: center;
 }
@@ -431,7 +411,7 @@ darkboldcenter {
 shadowedcenter {
 	font-family: Roboto;
 	font-size: 14;
-	color: #c7c7c5;
+	color: #f9f9f9;
 	font-weight: normal;
 	text-align: center;
 	shadow-distance: 0;
@@ -440,11 +420,7 @@ shadowedcenter {
 }
 
 grey_p {
-	color: #9b9b9b;
-}
-
-italicgrey_grey {
-    font-style: italic;
+	color: #444242;
 }
 
 greybold_grey {
@@ -463,7 +439,7 @@ italiclightgrey_lightgrey {
 }
 
 questfinished_p {
-	color: #e0e0de;
+	color: #f4f4f4;
 }
 
 newfeaturecenter {
@@ -475,7 +451,7 @@ newfeaturecenter {
 }
 
 greencenterfeature_newfeaturecenter {
-	color: #deff00;
+	color: #a3d6e6;
 }
 
 rightfeature_newfeaturecenter {

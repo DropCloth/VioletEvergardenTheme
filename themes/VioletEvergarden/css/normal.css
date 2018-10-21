@@ -1,7 +1,7 @@
-p {
+﻿p {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #312D24;
+	color: #1a1b23;
 	text-align: justify;
 	letterSpacing: 0.3;
     font-weight: normal;
@@ -10,7 +10,7 @@ p {
 justify {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #312D24;
+	color: #1a1b23;
 	text-align: justify;
 	letterSpacing: 0.3;
 }
@@ -18,21 +18,21 @@ justify {
 left {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #312D24;
+	color: #1a1b23;
 	text-align: left;
 }
 
 right {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #312D24;
+	color: #1a1b23;
 	text-align: right;
 }
 
 center {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #312D24;
+	color: #1a1b23;
 	font-weight: normal;
 	text-align: center;
 	letterSpacing: 0.3;
@@ -43,14 +43,14 @@ center {
 bold {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #312D24;
+	color: #1a1b23;
 	font-weight: bold;
 }
 
 boldleft {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #312D24;
+	color: #1a1b23;
 	font-weight: bold;
 	text-align: left;
 }
@@ -58,7 +58,7 @@ boldleft {
 boldright {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #312D24;
+	color: #1a1b23;
 	font-weight: bold;
 	text-align: right;
 }
@@ -66,7 +66,7 @@ boldright {
 boldcenter {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #312D24;
+	color: #1a1b23;
 	font-weight: bold;
 	text-align: center;
 }
@@ -85,21 +85,21 @@ boldp0 {
 boldp4 {
     font-family: Tahoma;
     font-size: 18px;
-    color: #78735e;
+    color: #3c3f4d;
     font-weight: bold;
     letterSpacing: 0.3;
 }
 boldrightp4 {
 	font-family: Tahoma;
 	font-size: 18px;
-	color: #78735e;
+	color: #3c3f4d;
 	font-weight: bold;
 	text-align: right;
 }
 boldcenterp4 {
     font-family: Tahoma;
     font-size: 18px;
-    color: #78735e;
+    color: #3c3f4d;
     font-weight: bold;
     text-align: center;
     letterSpacing: 0.3;
@@ -419,7 +419,7 @@ quantity {
 small {
 	font-family: Tahoma;
 	font-size: 16px;
-	color: #312D24;
+	color: #1a1b23;
 	text-align: justify;
 	font-weight: normal;
 }

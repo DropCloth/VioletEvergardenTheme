@@ -1,7 +1,7 @@
 p {
 	font-family: Roboto;
 	font-size: 15;
-	color: #B4B4B2;
+	color: #f7f7f7;
 	paddingLeft: 13px;
 	verticalAlign: CENTER;
 }
@@ -9,6 +9,6 @@ p {
 maincontainer {
 	font-family: Roboto;
 	font-size: 15;
-	color: #C7C7C5;
+	color: #f9f9f9;
 	paddingLeft: 13px;
 }
