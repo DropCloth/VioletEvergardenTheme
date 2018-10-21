@@ -1,9 +1,8 @@
 <theme>
     <name>VioletEvergarden</name>
-    <skinType>1</skinType>
     <description>Violet Evergarden</description>
     <previewUri>VioletEvergarden.png</previewUri>
-    <author>N7 Léon</author>
+    <author>Leon</author>
     <version>1.0.0</version>
     <dofusVersion>2.48</dofusVersion>
     <creationDate>20/10/2018</creationDate>
